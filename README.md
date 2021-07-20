@@ -1,4 +1,4 @@
-# hy-vue-temp
+# sitkin-vue-temp
 
 ## Project setup
 ```
